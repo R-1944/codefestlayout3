@@ -20,7 +20,7 @@ margin-left: -30px;
 }
 .text_box
 {
-    font-family:Georgia, 'Times New Roman', Times, serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
 margin-left:-30px;
 margin-top: -40px;
     
@@ -253,6 +253,9 @@ margin-top: -40px;
 /* ----------------------------------------Sixth part---------------------------------------------- */
 .text6{
     text-align: center;
+    background-color: rgb(164, 216, 216);
+    box-sizing: border-box;
+    height: auto;
 }
 .our_latest{
     font-size: 30px;
@@ -263,5 +266,287 @@ margin-top: -40px;
     font-size: 30px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
+
+}
+.water{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: #0daeee;
+    color: white;
+    align-items: center;
+    padding: 10px;
+}
+.lamp{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+    color: white;
+    align-items: center;
+    padding: 10px;
+}
+.gas{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color:red;
+    color: white;
+    align-items: center;
+    padding: 10px;
+
+}
+.shopping{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color:rgb(235, 5, 108);
+    color: white;
+    align-items: center;
+    padding: 10px;
+
+
+}
+.mobile{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color:darkblue;
+    color: white;
+    align-items: center;
+    padding: 10px;
+}
+.card{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color:#008055;
+    color: white;
+    align-items: center;
+    padding: 10px;
+
+}
+.insurance{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    
+    background-color: #0F2027;  
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027); 
+    color: white;
+    align-items: center;
+    padding: 10px;
+
+}
+.home{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    
+    background: #8E2DE2;  
+background: -webkit-linear-gradient(to right, #4A00E0, #8E2DE2);  
+background: linear-gradient(to right, #4A00E0, #8E2DE2); 
+
+    
+    color: white;
+    align-items: center;
+    padding: 10px;
+
+
+
+}
+.bill{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    
+    background: #141E30;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #243B55, #141E30);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    color: white;
+    align-items: center;
+    padding: 10px;
+
+}
+.btn2{
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 20px;
+    width: 12rem;
+    background-color: orangered;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    /* margin-left: 2rem; */
+    align-items: center;
+    margin-left: 38rem;
+}
+
+/* -------------------------------------SEVEN PART------------------------------- */
+
+.text7{
+    margin-left: 50px;
+}
+
+.text_7{
+    margin-left: 50px;
+}
+.register{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.m_app{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: orangered;
+}
+.download{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    margin-left: 50px;
+}
+.scan{
+    margin-left: 65px;
+    margin-top: -135px;
+}
+.scann_bordar{
+    box-sizing: border-box;
+    background-color: white;
+    height: 15rem;
+    width: 15rem;
+    margin-left: 50px;
+
+}
+.down_circle{
+    box-sizing: border-box;
+    height: 7rem;
+    width: 25rem;
+    background-color: black;
+    color: white;
+    margin-left: 20rem;
+    border-radius: 10px;
+    margin-top: -11rem;
+}
+.circle1{
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.fillcircle{
+    margin-top: 10px;
+}
+.text_download{
+    margin-left: 50px;
+    margin-top: -40px;
+}
+.playstore{
+    box-sizing: border-box;
+    height: 7rem;
+    width: 25rem;
+    background-color: black;
+    color: white;
+    margin-left: 0rem;
+    border-radius: 10px;
+    /* margin-top: -11rem; */
+
+}
+.twoline{
+    margin-left: 50px;
+    margin-top: -15rem;
+}
+.fillarrow{
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.text_play{
+    margin-left: 60px;
+    margin-top: -55px;
+}
+
+.phoneimg{
+    align-items:center;
+    box-sizing: border-box;
+    /* background-color: orangered;
+    box-shadow: 5px orangered; */
+
+}
+/* -----------------------------------------------------------------  FOOTER PART  -------------------------------------------------------------------------------- */
+.footerpart{
+    background-color: rgb(164, 216, 216);
+    height: auto;
+
+}
+.footerleft{
+    margin-left: 50px;
+}
+.navmenu{
+    font-family: 'Abel';
+    text-align: right;
+    /* margin-top: -10px; */
+    top:0%
+}
+.navigationmenu{
+    margin-top: -50px;
+}
+.copiright{
+    font-family: 'Abel';
+     text-align: center;
+     justify-content: center;
+}
+
+/* -----------------------------------SOCIAL ICON------------------------------------- */
+.instragram{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color:  rgb(199, 237, 237);
+    align-items: center;
+    padding: 10px;
+}
+.facbook{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color:  rgb(199, 237, 237);
+    align-items: center;
+    padding: 10px;
+}
+
+.twitter{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color:  rgb(199, 237, 237);
+    align-items: center;
+    padding: 10px;
+    
+}
+.whatsapp{
+    box-sizing: border-box;
+    border-radius: 50px;
+    height: 50px;
+    width: 50px;
+    background-color: black;
+    color:  rgb(199, 237, 237);
+    align-items: center;
+    padding: 10px;
 
 }
