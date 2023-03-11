@@ -1,0 +1,267 @@
+
+ body{
+    background-color: rgb(0, 255, 255);
+}
+/* ---------------------------------------------left part--------------------------------------- */
+.left_text{
+    padding: 100px;
+    color: rgb(84, 224, 224);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+
+}
+.barcord{
+margin-left: -30px;
+}
+.logo{
+    display: left;
+    color: orangered;
+    top :0%;
+}
+.text_box
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+margin-left:-30px;
+margin-top: -40px;
+    
+    
+    
+}
+.the{
+    box-sizing: border-box; 
+    background-color: orangered; 
+    color:white;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.wallet{
+    box-sizing: border-box; 
+    background-color: orangered; 
+    color:white;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.bank{
+    box-sizing: border-box; 
+    background-color: orangered; 
+    color:white;
+    margin-left: 100px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+
+/* ---------------------------------middle img----------------------------------- */
+.phone_img{
+    /* margin-top: -100rem; */
+    /* margin-right: -30px; */
+    margin-left: -20rem;
+}
+/* --------------------------------------Right part-------------------------------- */
+.orange_box{
+    box-sizing: border-box;
+    background-color: rgb(252, 111, 59);
+    position: left;
+    height: auto;
+    top:0%;
+    border-radius: 5px;
+    padding: 50px;
+    
+}
+
+.menulogo{
+    text-align: right;
+    color: white;
+    margin-right: 50px;
+    
+
+}
+.text{
+    font-size: 100px;
+    font-family:fantasy;
+    color:white;
+    text-shadow: 5px 5px red;
+    margin-left: 100px;
+    top:0%;
+}
+.main_text{
+    margin-top: -50rem;
+}
+.info_list{
+    margin-left: 100px;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.btn{
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    margin-left: 2rem;
+    /* margin-left: 20rem; */
+}
+/* ----------------------------------------------------second part start------------------------------------ */
+
+
+.text_second{
+    text-align: center;
+}
+.complet_final{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.need{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.orangetext{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: orangered;
+}
+/* -----------------------------------------------------------Third part------------------------------------------------ */
+.img1{
+    align-items: center;
+}
+.first{  
+    padding: 20px;
+    padding-top:20px;
+    background-color: rgb(199, 237, 237);
+    text-align: center;
+   
+}
+.payment{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.pay_text{
+    font-family: 'Abel';
+    font-size:15px;
+    font-weight:bold;
+    color: black;
+}
+/* ------second---- */
+.second{
+    padding: 35px;
+    padding-top:20px;
+    background-color: rgb(199, 237, 237);
+    text-align: center;
+    color: orangered;
+
+}
+.high_sec{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:20px;
+    color: black;
+
+}
+.third{
+    /* padding: 35px; */
+    /* padding-top:20px; */
+    background-color: rgb(199, 237, 237);
+    text-align: center;
+
+}
+.digital{
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
+/* -----------------------------------FOURTH PART----------------------- */
+.finance_text{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    /* font-weight: bold; */
+}
+.digitalize{
+    color: orangered;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+/* .for_text{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+
+} */
+.Lorem_text{
+    font-family: 'Abel';
+
+}
+.orange_circle{
+    box-sizing: border-box;
+    background-color: orangered;
+    height: 40rem;
+    width: 40rem;
+    border-radius: 50rem;
+    align-items: center;
+    margin-left: 100px;
+}
+.l_more{
+    font-size: 15px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 5px;
+}
+.bordar{
+    border: 10px;
+    background-color: orangered; 
+    height: 10px;
+     width: 80px;
+     margin-top: -10px;
+
+}
+   
+  /* img {
+	transform: rotate(-40deg)
+    
+
+}   */
+.img_rotet{
+    
+    margin-left: 48px;
+    margin-top: -122px;
+    /* box-shadow: 0px 0px 5px 12px black; */
+    /* opacity: 0.5px; */
+}
+/* -----------------------------Fifth part----------------------- */
+.arrow
+{
+    
+    color: orangered;
+    margin-top: -23rem;
+    margin-left: 28rem;
+}
+.text5{
+    margin-left: 50px;
+    padding: 50px;
+}
+.commi{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.exp{
+    color: orangered; 
+}
+
+
+/* ----------------------------------------Sixth part---------------------------------------------- */
+.text6{
+    text-align: center;
+}
+.our_latest{
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.text_feature{
+    color: orangered;
+    font-size: 30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+
+}
