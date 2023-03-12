@@ -504,6 +504,7 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
     font-family: 'Abel';
      text-align: center;
      justify-content: center;
+     margin-top: 50px;
 }
 
 /* -----------------------------------SOCIAL ICON------------------------------------- */
