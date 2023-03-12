@@ -59,6 +59,13 @@ margin-top: -40px;
     /* margin-top: -100rem; */
     /* margin-right: -30px; */
     margin-left: -20rem;
+    /* left: 30.5vw;
+    position: absolute;
+    z-index: 1;
+    top: 7vw; */
+    box-shadow: 9px 9px #df3900;
+    border-radius: 0px 10px 10px 14px;
+    max-width: 18vw;
 }
 /* --------------------------------------Right part-------------------------------- */
 .orange_box{
@@ -139,6 +146,7 @@ margin-top: -40px;
 .payment{
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
 }
 .pay_text{
     font-family: 'Abel';
@@ -202,6 +210,7 @@ margin-top: -40px;
     border-radius: 50rem;
     align-items: center;
     margin-left: 100px;
+    
 }
 .l_more{
     font-size: 15px;
@@ -224,11 +233,26 @@ margin-top: -40px;
 }   */
 .img_rotet{
     
-    margin-left: 48px;
+    margin-left: 84px;
     margin-top: -122px;
     /* box-shadow: 0px 0px 5px 12px black; */
     /* opacity: 0.5px; */
+
+
+
+    width:250px;
+    height: 550px;
+    transform: rotate(330deg);
+    margin-top: -80px;
+    border-radius: 10px;
+
+
+    box-shadow: 9px 9px #df3900;
+    border-radius: 0px 10px 10px 14px;
+    max-width: 18vw;
 }
+
+
 /* ---------------------------------------------------Fifth part---------------------------------------------------- */
 .arrow
 {
@@ -390,7 +414,7 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
     text-align: center;
     /* margin-left: 2rem; */
     align-items: center;
-    margin-left: 38rem;
+    margin-left: 50rem;
 }
 
 /* -------------------------------------SEVEN PART------------------------------- */
@@ -480,6 +504,10 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
     box-sizing: border-box;
     /* background-color: orangered;
     box-shadow: 5px orangered; */
+    box-shadow: 9px 9px #df3900;
+    border-radius: 0px 10px 10px 14px;
+    max-width: 18vw;
+}
 
 }
 /* -----------------------------------------------------------------  FOOTER PART  -------------------------------------------------------------------------------- */
