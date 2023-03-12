@@ -174,7 +174,7 @@ margin-top: -40px;
 
 
 }
-/* -----------------------------------FOURTH PART----------------------- */
+/* -----------------------------------------------------------FOURTH PART------------------------------------------------ */
 .finance_text{
     font-size: 30px;
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -229,7 +229,7 @@ margin-top: -40px;
     /* box-shadow: 0px 0px 5px 12px black; */
     /* opacity: 0.5px; */
 }
-/* -----------------------------Fifth part----------------------- */
+/* ---------------------------------------------------Fifth part---------------------------------------------------- */
 .arrow
 {
     
@@ -250,7 +250,7 @@ margin-top: -40px;
 }
 
 
-/* ----------------------------------------Sixth part---------------------------------------------- */
+/* ----------------------------------------------------------Sixth part---------------------------------------------- */
 .text6{
     text-align: center;
     background-color: rgb(164, 216, 216);
@@ -549,4 +549,30 @@ background: linear-gradient(to right, #243B55, #141E30); /* W3C, IE 10+/ Edge, F
     align-items: center;
     padding: 10px;
 
+}
+
+/* ------------------------------------------------------------------Media Query------------------------------------------------ */
+
+@media only screen and (max-width: 1199px) {
+    
+    .text{
+        font-size: 40px;
+       
+    }
+    .our_latest{
+        font-size: 20px;
+    }
+    .text_feature{
+        
+        font-size: 20px;
+       
+    }
+    .text6{
+    
+        background-color: rgb(164, 216, 216);
+        width: 100%;
+        height: auto;
+    }
+    
+    
 }
